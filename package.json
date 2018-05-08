@@ -20,7 +20,12 @@
   "license": "ISC",
   "homepage": "https://bitbucket.org/davejoem/nedb-to-mongodb#readme",
   "dependencies": {
+    "fs-extra": "^6.0.0",
     "mongodb": "^3.0.7",
     "nedb": "^1.8.0"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^5.0.2",
+    "@types/mongodb": "^3.0.18"
   }
 }
