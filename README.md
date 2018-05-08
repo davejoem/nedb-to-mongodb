@@ -8,6 +8,6 @@ Do `npm i` or `yarn`
 
 Then run `node index.js [/path/to/nedb/database/folder] [name_of_mongodb_database]`
 
-
+That's it for now.
 
 
